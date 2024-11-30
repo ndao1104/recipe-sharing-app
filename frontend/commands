@@ -1,0 +1,2 @@
+npm create vite@latest frontend
+npm install axios react-router-dom jwt-decode
